@@ -1,0 +1,14 @@
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\bin\Debug\net8.0\RoverControlCentre.exe
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\bin\Debug\net8.0\RoverControlCentre.deps.json
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\bin\Debug\net8.0\RoverControlCentre.runtimeconfig.json
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\bin\Debug\net8.0\RoverControlCentre.dll
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\bin\Debug\net8.0\RoverControlCentre.pdb
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.AssemblyInfoInputs.cache
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.AssemblyInfo.cs
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.csproj.CoreCompileInputs.cache
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.dll
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\refint\RoverControlCentre.dll
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.pdb
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\RoverControlCentre.genruntimeconfig.cache
+C:\Users\raymo\portfolioprojects\spacerover\Spacerover\obj\Debug\net8.0\ref\RoverControlCentre.dll
